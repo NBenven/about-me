@@ -1,2 +1,9 @@
 # about-me
-first homework
+
+About Me
+
+Learning new things
+
+For Fun
+
+Sports
