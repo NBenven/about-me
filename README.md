@@ -2,5 +2,5 @@
 first homework
 
 hobbies 
--basketball
--sleeping
+basketball
+sleeping
